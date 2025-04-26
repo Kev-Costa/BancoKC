@@ -1,7 +1,3 @@
-Claro! Aqui está um `README.md` para o seu projeto:
-
----
-
 # Projeto: Simulador de Conta Bancária
 
 ## 📋 Descrição
