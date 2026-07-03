@@ -65,5 +65,3 @@ java Main
 Este projeto é de uso livre para fins educacionais e de aprendizado.
 
 ---
-
-Quer que eu também crie uma versão resumida ou uma versão que inclua um exemplo visual da execução no terminal? 🎯
